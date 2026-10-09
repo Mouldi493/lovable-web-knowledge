@@ -29,6 +29,9 @@ Import the folders under `skills/` as workspace skills.
 - `local-business-seo` — local-service architecture, location pages, trust and qualified local leads.
 - `saas-conversion` — SaaS messaging, signup, activation, pricing and free-to-paid conversion.
 - `premium-motion-interactions` — purposeful animation, microinteractions and motion performance.
+- `landing-page-ultra-conversion` — single-goal landing pages, offer/message match, proof, forms and conversion optimization.
+- `design-system-component-library` — reusable design tokens, components, variants, states and scalable UI architecture.
+- `prelaunch-automatic-audit` — mandatory pre-publish audit across QA, mobile, accessibility, performance, SEO, CRO, tracking and security basics.
 
 ## Core philosophy
 
