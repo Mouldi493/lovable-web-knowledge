@@ -24,6 +24,11 @@ Import the folders under `skills/` as workspace skills.
 - `ecommerce-saas-local` — specialized patterns for ecommerce, SaaS and local-service sites.
 - `marketing-growth` — ads, email, launch, analytics and experimentation.
 - `qa-accessibility-performance` — testing, accessibility, mobile QA and performance.
+- `design-reference-system` — visual-reference routing and anti-copy synthesis.
+- `advanced-ecommerce-cro` — product pages, carts, offers, bundles and mobile ecommerce conversion.
+- `local-business-seo` — local-service architecture, location pages, trust and qualified local leads.
+- `saas-conversion` — SaaS messaging, signup, activation, pricing and free-to-paid conversion.
+- `premium-motion-interactions` — purposeful animation, microinteractions and motion performance.
 
 ## Core philosophy
 
